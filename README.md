@@ -161,3 +161,7 @@ The project's `README.md` documents:
 - Resource views and the navbar hide controls the current user is not authorized to use.
 - Seeded admin, vet, and owner users — with their domain records linked — documented in the README.
 - A clean `bin/rails db:drop db:create db:migrate db:seed` run on a fresh database.
+
+## Para entrar a la pagina
+User: admin@test.com
+Contraseña: password123
